@@ -1,5 +1,3 @@
-<<<<<<< dev
-=======
 // comentario de una sola linea
 
 /* comentario
@@ -26,4 +24,3 @@ document.write(precio * 380); // como no puse la palabra precio entre comillas ,
 console.log(precio * 380);
 
 
->>>>>>> local
